@@ -14,7 +14,7 @@ const Container = styled.main`
 export function Loading() {
   return (
     <Container>
-      <img src={"/minesbetlogo.png"} width={450} height={250} alt="Logo mines lucrativo" />
+      <img src={"/minesbetlogo.png"} width={250} height={150} alt="Logo mines lucrativo" />
       <LoadingComponent color="#a8f45b" size={80} />
     </Container>
   );
