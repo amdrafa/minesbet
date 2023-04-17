@@ -104,10 +104,10 @@ export default function Home() {
 								onClick={onCalculateProbabilities}
 							/>
 							<Link
-								href="https://wlf12bet.adsrv.eacdn.com/C.ashx?btag=a_4620b_87c_&affid=3280&siteid=4620&adid=87&c="
+								href="https://go.aff.7k-partners.com/t5mztzcf?source_id=MinesFacebookAnuncio"
 								target="_blank"
 							>
-								<ButtonPrimary title="Entrar na casa" className="buttons-card-tips" />
+								<ButtonPrimary title="Entrar na bet.7k" className="buttons-card-tips" />
 							</Link>
 						</div>
 					</ContainerCardTipsAndButtons>
