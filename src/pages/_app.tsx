@@ -44,6 +44,7 @@ export default function App({ Component, pageProps }: AppProps) {
 				<meta property="twitter:title" content="Mines Bet" />
 				<meta property="twitter:description" content="Mines Bet" />
 				<meta property="twitter:image" content={process.env.NEXT_PUBLIC_BASE_URL + "/assets/og-image.png"} />
+
 			</Head>
 			<ThemeProvider theme={theme}>
 				<GlobalStyle />
