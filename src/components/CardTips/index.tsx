@@ -8,16 +8,15 @@ const TypeAnimation = dynamic(() => import("react-type-animation").then((r) => r
 });
 
 const TIPS = [
-	`Conheça os jogos e esportes em que você deseja apostar: É importante ter conhecimento profundo sobre os jogos e esportes em que você deseja apostar para tomar decisões informadas.`,
-	`Mantenha-se atualizado: Siga as últimas notícias e tendências dos esportes que você deseja apostar, pois isso pode influenciar em suas apostas.`,
-	`Tenha uma estratégia: Determinar sua estratégia de apostas antes de começar a jogar é fundamental. Isso ajudará a mantê-lo no controle de suas ações.`,
-	`Limite suas perdas: É importante estabelecer limites para as perdas que você está disposto a suportar antes de começar a apostar. Isso evitará que você gaste mais do que pode se perder.`,
-	`Mantenha registros detalhados: Tenha um registro detalhado de todas as suas apostas, incluindo o valor e o resultado. Isso ajudará a avaliar sua estratégia ao longo do tempo.`,
-	`Não se apoie em emoções: Evite deixar suas emoções influenciarem em suas decisões de aposta. Mantenha a calma e siga sua estratégia.`,
-	`Escolha um site de apostas confiável: Certifique-se de escolher um site de apostas confiável e bem estabelecido para evitar fraudes e garantir a segurança de seus dados e de seu dinheiro.`,
-	`Compare as odds: Compare as odds oferecidas pelos diferentes sites de apostas para encontrar as melhores oportunidades.`,
-	`Não siga a multidão: Evite fazer apostas apenas porque a maioria das pessoas está fazendo. Use sua própria análise e conhecimento para tomar decisões informadas.`,
-	`Tenha calma: Não se desespere se você perder algumas apostas. Mantenha sua estratégia e seja paciente, pois o sucesso a longo prazo é mais importante do que o curto prazo.`,
+	`Antes de fazer as escolhas, é fundamental ter um conhecimento aprofundado sobre os jogos e esportes em que se deseja apostar. Portanto, é recomendável que você se familiarize com as regras e estratégias dos jogos e esportes antes de fazer suas apostas.`,
+	`Fique por dentro das últimas notícias e tendências das tecnologias, isso pode afetar diretamente suas resultados. Conhecimento vindo das pessoas certas é fundamental para aumentar suas chances de sucesso nas apostas.`,
+	`É crucial que você tenha uma estratégia de apostas bem definida antes de começar a jogar, pois isso o ajudará a manter o controle sobre suas ações.`,
+	`Para evitar gastar mais dinheiro do que você pode perder, é fundamental estabelecer limites claros para as perdas que está disposto a suportar antes de começar a apostar. Dessa forma, você poderá ter um controle melhor sobre suas despesas e evitar perder dinheiro além do que planejou, tornando suas apostas mais seguras e conscientes.`,
+	`Deve-se manter um registro minucioso de todas as suas apostas, incluindo o valor e o resultado, é essencial para avaliar sua estratégia ao longo do tempo. Esse registro pode ajudá-lo a identificar padrões e tendências em suas apostas, permitindo que você faça ajustes em sua estratégia e melhore seu desempenho no longo prazo. `,
+	`Para tomar decisões de apostas mais precisas e conscientes, é fundamental evitar que suas emoções interfiram no processo. Por isso, mantenha-se calmo e siga sua estratégia, evitando fazer escolhas impulsivas ou influenciadas por sentimentos momentâneos.`,
+	`Sempre escolha uma casa de aposta confiável: Nossa inteligência artificial funciona na bet 7k, uma casa bem estabelecida e prearada para evitar fraudes e garantir a segurança de seus dados / dinheiro.`,
+	`Para tomar decisões de apostas mais precisas e conscientes, evite seguir a multidão e fazer apostas apenas porque a maioria das pessoas está fazendo. Em vez disso, use sua própria análise e ajuda da inteligência artificial para tomar decisões estratégicas.`,
+	`Para alcançar o sucesso nas apostas, é fundamental manter a calma e a paciência, mesmo quando ocorrem perdas. Não se desespere ou mude sua estratégia de forma impulsiva, mantenha o foco e a disciplina para alcançar seus objetivos.`,
 ];
 
 export function CardTips() {
