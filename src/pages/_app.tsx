@@ -9,7 +9,7 @@ export default function App({ Component, pageProps }: AppProps) {
 	return (
 		<>
 			<Head>
-				<title>Mines Lucrativo</title>
+				<title>G-Winz</title>
 
 				<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 

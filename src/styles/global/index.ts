@@ -14,10 +14,11 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     overflow-x: hidden;
-    background-image: url("/background-hack.jpg");
+    /* background-image: url("/background-hack.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: cover; */
+    background-color: #5c01a1;
   }
 
   html {

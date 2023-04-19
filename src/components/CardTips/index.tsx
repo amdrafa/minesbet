@@ -38,13 +38,13 @@ export function CardTips() {
 	return (
 		<ContainerCardTips>
 			<div className="logo-and-name">
-				<img width={'100px'} src={"/mines-logo-pequena.png"} alt="Logo mines bet" />
+				<img width={'130px'} src={"/mines-logo-pequena.png"} alt="Logo mines bet" />
 				<div className="name">
-					<h5>Mines Bet</h5>
-					<p>Assistente bot</p>
+					<h5>GWinz</h5>
+					<p>Inteligência Artificial</p>
 				</div>
 			</div>
-			<p className="title">Orientações:</p>
+			<p className="title">Recomendações:</p>
 			<p className="description">
 				<TypeAnimation
 					sequence={tips}

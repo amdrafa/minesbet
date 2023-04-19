@@ -8,7 +8,7 @@ export const CardMineContainer = styled.div<CardMineContainerProps>`
 	width: 120px;
 	height: 120px;
 	/* background-color: ${({ theme }) => theme.COLORS.BLUE}; */
-	background-color: #057405;
+	background-color: #450674;
 	border-radius: 10px;
 	display: flex;
 	align-items: center;

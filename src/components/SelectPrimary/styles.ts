@@ -16,7 +16,7 @@ export const SelectContainer = styled.div`
 
   ${({ theme }) => css`
     /* background-color: ${theme.COLORS.BLUE}; */
-    background-color: #31790c;
+    background-color: #450674;
     color: ${theme.COLORS.WHITE};
   `}
 `;
@@ -71,7 +71,8 @@ export const ListOption = styled.div<ListOptionProps>`
 
   width: 100%;
 
-  background-color: ${({ theme }) => theme.COLORS.BLUE};
+  /* background-color: ${({ theme }) => theme.COLORS.BLUE}; */
+  background-color: #480878;
 
   padding: 5px;
 `;
@@ -86,7 +87,8 @@ export const Option = styled.button<OptionProps>`
   border-radius: 10px;
   border: none;
 
-  background-color: ${({ theme }) => theme.COLORS.BLUE_200};
+  /* background-color: ${({ theme }) => theme.COLORS.BLUE_200}; */
+  background-color: #3b0662;
   color: white;
   font-weight: 600;
 

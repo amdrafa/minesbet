@@ -7,9 +7,12 @@ type Props = {
 export const ButtonContainer = styled.button<Props>`
   ${({ buttonType }) => css`
     background: ${buttonType === "PRIMARY"
-      ? "linear-gradient(90deg, #1d5600 0%, #31790c 100%)"
-      : "linear-gradient(270deg, #64B846 -3.07%, #2B6617 100%);"};
+      ? "linear-gradient(270deg, #c78b1c -3.07%, #f7af29 100%);"
+      : "linear-gradient(90deg, #3a0464 0%, #450674 100%)"
+    };
   `};
+
+  
 
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border: none;

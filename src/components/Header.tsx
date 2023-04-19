@@ -31,7 +31,7 @@ export function Header() {
 		<ContainerHeader>
 			<Link href="/">
 				<div className="logo">
-					<img src={"/mines-logo-pequena.png"} alt="Logo Mines Bet" />
+					<img src={"/logo-gwinz-01.png"} width={200} alt="Logo Mines Bet" />
 				</div>
 			</Link>
 			<Link href="https://go.aff.7k-partners.com/t5mztzcf?source_id=MinesFacebookAnuncio" target="_blank">

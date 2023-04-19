@@ -16,7 +16,7 @@ export const ContainerCardTips = styled.div`
 
   max-width: 340px;
   width: 100%;
-  height: 350px;
+  height: 450px;
 
   border-radius: 10px;
 
